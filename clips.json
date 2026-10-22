@@ -1,0 +1,23 @@
+[
+  {"name": "trickster-boo",   "voice": "N2lVS1w4EtoT3dr4eOWO", "voice_name": "Callum (Husky Trickster)",
+   "text": "[creepy whisper] Psst... hey. Over here. [sinister giggle] I can see you... [screaming] BOO!"},
+  {"name": "who-dares",       "voice": "SOYHLrjzK2X1ezoPC6cr", "voice_name": "Harry (Fierce Warrior)",
+   "text": "[shouting] WHO DARES APPROACH THE PUMPKIN?! [booming evil laugh] MWAHAHAHAHA!"},
+  {"name": "scared-pumpkin",  "voice": "FGY2WhTYpPnrIDTdsKH5", "voice_name": "Laura (Quirky)",
+   "text": "[terrified scream] AAAAAHHH! A HUMAN! [panting] Oh thank goodness. I thought you were a pie chef."},
+  {"name": "trick-or-treat",  "voice": "cgSgspJ2msm6clMCkdW9", "voice_name": "Jessica (Playful)",
+   "text": "[eerie sing-song] Trick... or... treeeat... [giggles] [suddenly shouting] BOO!"},
+  {"name": "old-man-candy",   "voice": "pqHfZKP75CvOlQylNhV4", "voice_name": "Bill (Wise, Mature)",
+   "text": "[raspy, slow, ominous] Turn back... while you still can. [coughs] [casual] Or take two candies. I'm not your mom."},
+
+  {"name": "absolutely-right","voice": "09QsOo5Jg2jiestttjDA", "voice_name": "Claude Code Voice",
+   "text": "[enthusiastic] You're absolutely right! [pause] [deadpan] I should not have carved that pumpkin."},
+  {"name": "step-by-step",    "voice": "09QsOo5Jg2jiestttjDA", "voice_name": "Claude Code Voice",
+   "text": "[thoughtful] Let me think about this step by step. [pause] Step one: [shouting] RUN!"},
+  {"name": "proceed-scream",  "voice": "09QsOo5Jg2jiestttjDA", "voice_name": "Claude Code Voice",
+   "text": "[calm, friendly] I notice you're approaching the porch. Would you like me to proceed with the scream? [pause] [screaming] AAAAAHHH! [sheepish] Sorry, I should have waited for approval."},
+  {"name": "production-ready","voice": "09QsOo5Jg2jiestttjDA", "voice_name": "Claude Code Voice",
+   "text": "[cheerful] Great news! The candy is production-ready. [nervous laugh] I did not actually run the tests."},
+  {"name": "out-of-scope",    "voice": "09QsOo5Jg2jiestttjDA", "voice_name": "Claude Code Voice",
+   "text": "[apologetic] I'm sorry, but taking more than one piece is outside the scope of this task. [whispering, menacing] I'm watching you."}
+]

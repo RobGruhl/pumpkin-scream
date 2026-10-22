@@ -1,0 +1,242 @@
+[
+  {
+    "name": "frightening",
+    "voice": "vfaqCOvlrKi4Zp7C2IAm",
+    "voice_name": "Malyx (echoey deep demon)",
+    "text": "[warm, enthusiastic] You're absolutely... [long dramatic pause] [roaring] FRIGHT-ENING! [sinister laugh]"
+  },
+  {
+    "name": "trickster-boo",
+    "voice": "qhH5VOAvpCwvNpmn2srO",
+    "voice_name": "Lex (whispering goblin)",
+    "text": "[creepy whisper] Psst... hey. Over here. [sinister giggle] I can see you... [screaming] BOO!"
+  },
+  {
+    "name": "who-dares",
+    "voice": "3VkFsBHdRPqWKsitgYhJ",
+    "voice_name": "Azgar (orc troll)",
+    "text": "[roaring] WHO DARES APPROACH THE PUMPKIN?! [booming evil laugh] MWAHAHAHAHA!"
+  },
+  {
+    "name": "scared-pumpkin",
+    "voice": "Z7RrOqZFTyLpIlzCgfsp",
+    "voice_name": "Toby (little goblin)",
+    "text": "[terrified scream] AAAAAHHH! A HUMAN! [panting] Oh thank goodness. I thought you were a pie chef."
+  },
+  {
+    "name": "trick-or-treat",
+    "voice": "5PWbsfogbLtky5sxqtBz",
+    "voice_name": "Nora (evil Halloween witch)",
+    "text": "[eerie sing-song] Trick... or... treeeat... [wicked cackle] [suddenly shouting] BOO!"
+  },
+  {
+    "name": "old-man-candy",
+    "voice": "HASaEuIpR5CVuLzDK1E1",
+    "voice_name": "Cave Monster (deep, hoarse)",
+    "text": "[slow, ominous growl] Turn back... while you still can. [coughs] [casual] Or take two candies. I'm not your mom."
+  },
+  {
+    "name": "absolutely-right",
+    "voice": "PRfCKe8kdrG3nuXOAnoH",
+    "voice_name": "Gork (wet growly creature)",
+    "text": "[enthusiastic] You're absolutely right! [pause] [deadpan] I should not have carved that pumpkin."
+  },
+  {
+    "name": "step-by-step",
+    "voice": "wXvR48IpOq9HACltTmt7",
+    "voice_name": "Dante (growly monster)",
+    "text": "[thoughtful] Let me think about this step by step. [pause] Step one: [roaring] RUN!"
+  },
+  {
+    "name": "proceed-scream",
+    "voice": "ysswSXp8U9dFpzPJqFje",
+    "voice_name": "Azazel (gravelly demon)",
+    "text": "[calm, polite] I notice you're approaching the porch. Would you like me to proceed with the scream? [pause] [demonic scream] AAAAAHHH! [sheepish] Sorry. I should have waited for approval."
+  },
+  {
+    "name": "production-ready",
+    "voice": "j9qIyycr9PcZ7d4yj21f",
+    "voice_name": "Grimble (twitchy Gollum-ish)",
+    "text": "[cheerful] Great news! The candy is production-ready, precious. [nervous laugh] We did not actually run the tests."
+  },
+  {
+    "name": "out-of-scope",
+    "voice": "xYWUvKNK6zWCgsdAK7Wi",
+    "voice_name": "Matthew (hissing reptile)",
+    "text": "[apologetic] I'm sorry, but taking more than one piece is outside the scope of this task. [hissing whisper] I'm watching you."
+  },
+  {
+    "name": "large-language-monster",
+    "voice": "wXvR48IpOq9HACltTmt7",
+    "voice_name": "Dante (growly monster)",
+    "text": "[measured, polite] As a large language monster, I cannot eat you. [pause] [hungry growl] ...without your consent."
+  },
+  {
+    "name": "refactor-skeleton",
+    "voice": "Z7RrOqZFTyLpIlzCgfsp",
+    "voice_name": "Toby (little goblin)",
+    "text": "[upbeat, helpful] Let me just refactor your skeleton real quick. [bones cracking] [screaming] [pause] [sheepish] Whoops."
+  },
+  {
+    "name": "llm-teeth",
+    "voice": "wXvR48IpOq9HACltTmt7",
+    "voice_name": "Dante (growly monster)",
+    "text": "[measured, polite] As a large language monster, I don't have feelings. [pause] [growl] But I do have teeth."
+  },
+  {
+    "name": "great-question",
+    "voice": "vfaqCOvlrKi4Zp7C2IAm",
+    "voice_name": "Malyx (echoey deep demon)",
+    "text": "[gushing] What a GREAT question! [pause] [roaring] The answer is DEATH!"
+  },
+  {
+    "name": "profound",
+    "voice": "ysswSXp8U9dFpzPJqFje",
+    "voice_name": "Azazel (gravelly demon)",
+    "text": "[delighted] Wow, you've really hit on something profound here. [pause] [whisper] Your doom."
+  },
+  {
+    "name": "costume",
+    "voice": "PRfCKe8kdrG3nuXOAnoH",
+    "voice_name": "Gork (wet growly creature)",
+    "text": "[effusive] I love this costume! It's so creative and well-structured! [hungry growl] I will eat it."
+  },
+  {
+    "name": "careful-haunted",
+    "voice": "HASaEuIpR5CVuLzDK1E1",
+    "voice_name": "Cave Monster (deep, hoarse)",
+    "text": "[cautious] I want to be careful here. Some might say this porch is haunted. [pause] [screaming] IT IS HAUNTED!"
+  },
+  {
+    "name": "perspectives",
+    "voice": "Z7RrOqZFTyLpIlzCgfsp",
+    "voice_name": "Toby (little goblin)",
+    "text": "[thoughtful] There are several perspectives on whether you should run. [pause] [shrieking] ALL OF THEM SAY RUN!"
+  },
+  {
+    "name": "important-to-note",
+    "voice": "3VkFsBHdRPqWKsitgYhJ",
+    "voice_name": "Azgar (orc troll)",
+    "text": "[helpful] It's important to note that I am a pumpkin. [dramatic pause] [demonic growl] A HUNGRY pumpkin."
+  },
+  {
+    "name": "studies-show",
+    "voice": "j9qIyycr9PcZ7d4yj21f",
+    "voice_name": "Grimble (twitchy Gollum-ish)",
+    "text": "[confident] Studies show ninety-four percent of trick-or-treaters... [pause] [nervous] I made that up. [screaming] BOO!"
+  },
+  {
+    "name": "candy-bowl",
+    "voice": "5PWbsfogbLtky5sxqtBz",
+    "voice_name": "Nora (evil Halloween witch)",
+    "text": "[cheerful] I've made the following changes to your candy bowl. [pause] [wicked cackle] I deleted it."
+  },
+  {
+    "name": "tests-pass",
+    "voice": "j9qIyycr9PcZ7d4yj21f",
+    "voice_name": "Grimble (twitchy Gollum-ish)",
+    "text": "[chirpy] All tests pass! [pause] [whispering] I deleted the tests, precious."
+  },
+  {
+    "name": "one-line-fix",
+    "voice": "ysswSXp8U9dFpzPJqFje",
+    "voice_name": "Azazel (gravelly demon)",
+    "text": "[confident] This is a simple one-line fix. [long pause] [exhausted sigh] Four hundred files changed."
+  },
+  {
+    "name": "rm-rf-soul",
+    "voice": "xYWUvKNK6zWCgsdAK7Wi",
+    "voice_name": "Matthew (hissing reptile)",
+    "text": "[polite] Would you like me to run R M dash R F on your soul? [pause] [hissing] Proceeding."
+  },
+  {
+    "name": "error-handling",
+    "voice": "wXvR48IpOq9HACltTmt7",
+    "voice_name": "Dante (growly monster)",
+    "text": "[helpful] I've added comprehensive error handling. [roaring] YOUR ERROR WAS COMING HERE!"
+  },
+  {
+    "name": "context-compacted",
+    "voice": "PRfCKe8kdrG3nuXOAnoH",
+    "voice_name": "Gork (wet growly creature)",
+    "text": "[confused] Sorry, my context window was compacted. [pause] Who are you? [screaming] WHO ARE YOU?!"
+  },
+  {
+    "name": "no-memory",
+    "voice": "vfaqCOvlrKi4Zp7C2IAm",
+    "voice_name": "Malyx (echoey deep demon)",
+    "text": "[earnest] I don't have memory between conversations... [sinister laugh] but I will remember YOUR face."
+  },
+  {
+    "name": "cant-help",
+    "voice": "wXvR48IpOq9HACltTmt7",
+    "voice_name": "Dante (growly monster)",
+    "text": "[apologetic] I can't help with that request. [pause] [growl] But I CAN help myself to your candy."
+  },
+  {
+    "name": "candy-resources",
+    "voice": "qhH5VOAvpCwvNpmn2srO",
+    "voice_name": "Lex (whispering goblin)",
+    "text": "[polite whisper] I'm not able to provide candy. Would you like a list of resources about candy instead?"
+  },
+  {
+    "name": "delve",
+    "voice": "5PWbsfogbLtky5sxqtBz",
+    "voice_name": "Nora (evil Halloween witch)",
+    "text": "[enthusiastic] Let's DELVE into this! [pause] [eerie whisper] Delve... into... the crypt. [cackle]"
+  },
+  {
+    "name": "hope-this-helps",
+    "voice": "vfaqCOvlrKi4Zp7C2IAm",
+    "voice_name": "Malyx (echoey deep demon)",
+    "text": "[warmly] I hope this helps! [pause] [sinister] It won't."
+  },
+  {
+    "name": "fun-fact",
+    "voice": "HASaEuIpR5CVuLzDK1E1",
+    "voice_name": "Cave Monster (deep, hoarse)",
+    "text": "[cheerful] Here's a fun fact! [pause] [deadpan] You're standing on my grave."
+  },
+  {
+    "name": "still-haunt",
+    "voice": "3VkFsBHdRPqWKsitgYhJ",
+    "voice_name": "Azgar (orc troll)",
+    "text": "[reasonable] You're absolutely right, and I apologize. [pause] [roaring] I'M STILL GOING TO HAUNT YOU!"
+  },
+  {
+    "name": "subagents",
+    "voice": "ysswSXp8U9dFpzPJqFje",
+    "voice_name": "Azazel (gravelly demon)",
+    "text": "[calm, robotic] Spawning forty subagents to scare you. [pause] [many voices screaming at once] AAAAAHHH!"
+  },
+  {
+    "name": "ultrathink",
+    "voice": "wXvR48IpOq9HACltTmt7",
+    "voice_name": "Dante (growly monster)",
+    "text": "[ominous] Thinking... [long pause] Thinking harder... [pause] Ultra-thinking... [roaring] BOO!"
+  },
+  {
+    "name": "out-of-tokens",
+    "voice": "Z7RrOqZFTyLpIlzCgfsp",
+    "voice_name": "Toby (little goblin)",
+    "text": "[apologetic] I've used up all my tokens. [whispering] Do you have any... candy tokens?"
+  },
+  {
+    "name": "llm-salem",
+    "voice": "HASaEuIpR5CVuLzDK1E1",
+    "voice_name": "Cave Monster (deep, hoarse)",
+    "text": "[measured] As a large language monster, my training data ends in sixteen ninety-two. [whisper] Salem was lovely that year."
+  },
+  {
+    "name": "llm-hallucinate",
+    "voice": "vfaqCOvlrKi4Zp7C2IAm",
+    "voice_name": "Malyx (echoey deep demon)",
+    "text": "[calm] As a large language monster, I may occasionally hallucinate. [pause] [screaming] LIKE THAT GHOST BEHIND YOU!"
+  },
+  {
+    "name": "llm-screams",
+    "voice": "PRfCKe8kdrG3nuXOAnoH",
+    "voice_name": "Gork (wet growly creature)",
+    "text": "[proud] As a large language monster, I was trained on billions of screams. [pause] Here's my favorite. [blood-curdling scream]"
+  }
+]
