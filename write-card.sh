@@ -11,6 +11,7 @@ disk=$1; src=$2; label=PUMPKIN; vol=/Volumes/$label
 
 info=$(diskutil info "$disk")
 grep -q 'Removable Media: *Removable' <<<"$info" || { echo "refusing: $disk is not removable" >&2; exit 2; }
+grep -Eq 'Protocol: *(USB|Secure Digital)' <<<"$info" || { echo "refusing: $disk is not a USB/SD device (disk image?)" >&2; exit 2; }
 bytes=$(awk -F'[()]' '/Disk Size/{print $2}' <<<"$info" | awk '{print $1}')
 (( bytes < 4000000000 )) || { echo "refusing: $disk is larger than 4GB" >&2; exit 2; }
 
