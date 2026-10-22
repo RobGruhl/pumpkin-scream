@@ -20,7 +20,7 @@ AI-meme Halloween scares for a Waytronic MicroSound M13 (WT-M13) motion-activate
 
 - `gen.py [--clips FILE] [--only NAME ...] [--dry-run]` renders clips via the ElevenLabs API. The key comes from the macOS Keychain item `ELEVENLABS_API_KEY`; every paid call appends a line to `~/.local/state/agent-voice/audit.log`. A per-run ceiling of 2000 characters is in code.
 - `normalize.sh SRC OUT` high-passes at 120 Hz, lightly compresses, two-pass `loudnorm` to -14 LUFS, then a -1.5 dB brick-wall limiter.
-- `write-card.sh /dev/diskN SRC > card-map.txt` erases a removable card (refuses anything not removable or over 4 GB) as MBR + FAT16 like the factory card, and copies files as 8.3 names `001.MP3`… one at a time with `cp -X`, so FAT directory order, name order and play order all match and no `._` AppleDouble files reach the card.
+- `write-card.sh /dev/diskN SRC > card-map.txt` erases a removable USB/SD card (refuses disk images and anything over 4 GB) as MBR + FAT16 like the factory card, and copies files as 8.3 names `001.MP3`… one at a time, so FAT directory order, name order and play order all match (the WT2003B indexes tracks by write order). It resolves the card's real mount point from `diskutil` rather than assuming `/Volumes/PUMPKIN`, removes the `._` AppleDouble files macOS creates even with `cp -X`, and finishes by verifying order, count and checksums on the card.
 
 ## Loading the M13
 
