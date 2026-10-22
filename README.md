@@ -31,6 +31,12 @@ AI-meme Halloween scares for a Waytronic MicroSound M13 (WT-M13) motion-activate
 
 ## Loading the M13
 
-The WT-M13 has 4 MB of internal flash; the 35 clips at 128 kbps are 3.5 MB. Insert the card, hold **B**, switch power on, release when the red LED flashes; the copy is done when the LED goes off. Wait ~20 s after power-on before it triggers. Long-press **A** to toggle loop-all (1 flash) and single-track (2 flashes).
+**Play from the card (confirmed on hardware, 2026-10-22).** With a card in the slot the M13 plays straight from it, so the 4 MB flash limit doesn't apply: an 81-clip, 9.2 MB `card-81-N` set plays fine. Insert the card with the power off, switch on, wait ~20 s, and leave the card in. Do **not** hold B with a card over 4 MB: that starts the copy into flash, which Waytronic says transfers nothing when the audio exceeds 4 MB.
+
+**Copy into flash (≤ 4 MB only).** For a set that fits (the 35 clips in `card-128/` are 3.5 MB): insert the card, hold **B**, switch power on, release when the red LED flashes; the copy is done when the LED goes off. The card can then be removed.
+
+The M13 loops in file order (long-press **A** toggles loop-all, 1 flash, and single-track, 2 flashes); it has no shuffle, hence `make-shuffle.py`. Only insert or remove a card with the power off.
+
+If macOS says a card is "not readable" (blank, e.g. after an interrupted erase), click **Ignore** and run `write-card.sh`. If `diskutil eraseDisk` stalls for more than a few seconds, the card or reader has hung: stop it, reseat the card, and try again.
 
 Factory sounds are not included in this repo (they're Waytronic's).
