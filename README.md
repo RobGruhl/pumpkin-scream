@@ -17,6 +17,7 @@ AI-meme Halloween scares for a Waytronic MicroSound M13 (WT-M13) motion-activate
 | `card-order.txt` | Play order for the current 35-clip card (no voice plays twice in a row, including the wrap). |
 | `card-128/`, `card-96/` | That 35-clip card set in play order, at 128 and 96 kbps (`NNN-name.mp3`). `card-128` is what's on the cards. |
 | `card-map.txt` | `NNN.MP3` on the card → clip name, written by `write-card.sh`. |
+| `transcripts-batch2.tsv` | Local Whisper transcript of each batch-2 clip, used to check no audio tag was read aloud (none were). |
 | `MANUAL.md` | Notes from the M13 manual: buttons, modes, update procedure, timing. |
 
 ## Scripts
