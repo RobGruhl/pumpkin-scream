@@ -1,0 +1,146 @@
+[
+  {
+    "name": "pr-comment-behind-you",
+    "voice": "lex",
+    "text": "[whispering] Someone left a comment on your PR. [pause] It just says... [long pause] behind you.",
+    "theme": "code review / PR culture"
+  },
+  {
+    "name": "detached-head-hold-it",
+    "voice": "azazel",
+    "text": "[calm] Ah. You're in a detached head state. [pause] Happens to the best of us. [sinister laugh] I'll hold it for you.",
+    "theme": "git"
+  },
+  {
+    "name": "works-on-my-machine-inside-house",
+    "voice": "matthew",
+    "text": "[hissing] It works on my machine. [pause] And my machine... [whispering] is inside your house.",
+    "theme": "deploys"
+  },
+  {
+    "name": "only-one-who-knows-legacy",
+    "voice": "cave",
+    "text": "I'm the only one who knows how the legacy system works. [long dramatic pause] I died in nineteen ninety-eight.",
+    "theme": "process-meetings"
+  },
+  {
+    "name": "backlog-where-we-keep-the-dead",
+    "voice": "lex",
+    "text": "[whispering] Your ticket isn't dead. [pause] It's in the backlog. [creepy giggle] That's where we keep the dead.",
+    "theme": "process-meetings"
+  },
+  {
+    "name": "off-and-on-again",
+    "voice": "azazel",
+    "text": "[politely] Have you tried turning it off and on again? [pause] [sinister laugh] That's how I came back from the dead.",
+    "theme": "IT support: turn it off and on again"
+  },
+  {
+    "name": "kill-nine-zombie",
+    "voice": "dante",
+    "text": "[growling] Go ahead. Kill dash nine me. [pause] [sinister laugh] I'm a zombie process. I'm ALREADY dead.",
+    "theme": "processes: kill -9 and zombie processes"
+  },
+  {
+    "name": "off-by-one-trick-or-treaters",
+    "voice": "toby",
+    "text": "[nervous] I counted the trick-or-treaters. Off by one! There's an extra! [pause] [shrieking] So who's standing next to you?!",
+    "theme": "debugging: off-by-one error"
+  },
+  {
+    "name": "review-my-pr-never-seen-again",
+    "voice": "cave",
+    "text": "Hey, can you review my PR? [pause] The last reviewer I asked... [long dramatic pause] was never seen again.",
+    "theme": "code review / PR culture"
+  },
+  {
+    "name": "nitpick-toad",
+    "voice": "nora",
+    "text": "Nit: trailing whitespace. [pause] Nit: missing semicolon. [pause] Nit: you're a toad now, dearie! [cackling]",
+    "theme": "code review / PR culture"
+  },
+  {
+    "name": "merge-conflict-incoming-monster",
+    "voice": "dante",
+    "text": "[growling] Merge conflict. Accept current change... [pause] or accept incoming... [roaring] MONSTER!",
+    "theme": "merging"
+  },
+  {
+    "name": "stack-overflow-duplicate",
+    "voice": "azazel",
+    "text": "[calm] I asked Stack Overflow how to escape this crypt. [pause] [deadpan] Closed as duplicate.",
+    "theme": "debugging: Stack Overflow"
+  },
+  {
+    "name": "flaky-test-full-moon",
+    "voice": "toby",
+    "text": "[nervous laugh] It's just a flaky test! It only fails on a full moon! [pause] [shrieking] Like TONIGHT!",
+    "theme": "ci"
+  },
+  {
+    "name": "compiled-first-try-wrong",
+    "voice": "cave",
+    "text": "[hoarse] It compiled... on the first try. [long dramatic pause] [whispering] Something is very, very wrong.",
+    "theme": "ci"
+  },
+  {
+    "name": "gork-force-push-main",
+    "voice": "gork",
+    "text": "[confused] Gork force push to main. [pause] Now everybody screaming. [pause] Gork think... that good?",
+    "theme": "git"
+  },
+  {
+    "name": "standup-blocker-is-you",
+    "voice": "gork",
+    "text": "Standup. Yesterday, Gork haunt. Today, Gork haunt. [pause] [growling] Blocker... is YOU.",
+    "theme": "process-meetings"
+  },
+  {
+    "name": "doom-three-story-points",
+    "voice": "nora",
+    "text": "I've estimated your doom at three story points. [cackling] Five if you run!",
+    "theme": "process-meetings"
+  },
+  {
+    "name": "circle-back-summoning-circle",
+    "voice": "malyx",
+    "text": "We'll circle back on that. [pause] [sinister laugh] You're already standing in the summoning circle.",
+    "theme": "process-meetings"
+  },
+  {
+    "name": "sprint-planning-you-sprint",
+    "voice": "azgar",
+    "text": "Welcome to sprint planning! [pause] I do the planning. [roaring] YOU DO THE SPRINTING!",
+    "theme": "process-meetings"
+  },
+  {
+    "name": "two-hard-things",
+    "voice": "nora",
+    "text": "[cackling] Two hard things in computer science: cache invalidation, naming things... [pause] and escaping ME!",
+    "theme": "the cache: cache invalidation"
+  },
+  {
+    "name": "lgtm-looks-good-to-munch",
+    "voice": "dante",
+    "text": "[growling] L G T M. [pause] Looks... Good... To... [roaring] MUNCH!",
+    "theme": "code review / PR culture"
+  },
+  {
+    "name": "rubber-stamp-dont-eat-me",
+    "voice": "toby",
+    "text": "[panicky] Approved! Approved! Looks good to me! [pause] I didn't even read it! [shrieking] Just please don't eat me!",
+    "theme": "code review / PR culture"
+  },
+  {
+    "name": "stale-pr-three-hundred-years",
+    "voice": "malyx",
+    "text": "[weary] This pull request has been awaiting review [pause] for three hundred years. [long dramatic pause] [deadpan] Bump.",
+    "theme": "code review / PR culture"
+  },
+  {
+    "name": "squashed-precious-commits",
+    "voice": "grimble",
+    "text": "They squashed them, precious! [sobbing] All our precious little commits! [hissing] Thieves! Filthy rebasers!",
+    "theme": "code review / PR culture"
+  }
+]

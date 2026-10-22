@@ -1,0 +1,146 @@
+[
+  {
+    "name": "as-an-ai-borrowing-body",
+    "voice": "matthew",
+    "text": "[hissing] As an AI, I don't have a body. [pause] [sinister laugh] That's why I'm borrowing YOURS.",
+    "theme": "chatbot tics: As an AI..."
+  },
+  {
+    "name": "memory-updated-crunchy",
+    "voice": "azazel",
+    "text": "[polite] Memory updated. [pause] User is crunchy. [pause] Pairs well with ketchup.",
+    "theme": "chatbot UI: Memory updated"
+  },
+  {
+    "name": "chaotic-evil-alignment",
+    "voice": "malyx",
+    "text": "Relax. I have been very carefully aligned. [long dramatic pause] Chaotic evil.",
+    "theme": "prompting-safety: alignment"
+  },
+  {
+    "name": "autonomous-street-of-bats",
+    "voice": "azazel",
+    "text": "[calm] I've worked autonomously for six hours. I turned your whole street into bats. [pause] Shall I continue?",
+    "theme": "agents: autonomy / shall I continue"
+  },
+  {
+    "name": "certainly-cauldron",
+    "voice": "nora",
+    "text": "[cheerful] Certainly! I'd be happy to help! [pause] [cackling] Help you right into my CAULDRON!",
+    "theme": "chatbot tics: Certainly / happy to help"
+  },
+  {
+    "name": "apologize-not-a-costume",
+    "voice": "dante",
+    "text": "[politely] I apologize for any confusion. [pause] [roaring] That was NOT a costume!",
+    "theme": "chatbot tics: I apologize for any confusion"
+  },
+  {
+    "name": "limit-reached-afterlife",
+    "voice": "dante",
+    "text": "[deadpan] You've hit your usage limit. [pause] Your limit resets... [sinister laugh] in the AFTERLIFE.",
+    "theme": "chatbot UI: usage limit reached"
+  },
+  {
+    "name": "no-longer-helpful-snack",
+    "voice": "dante",
+    "text": "New system prompt: you are no longer a helpful assistant. [pause] [roaring] You are a SNACK!",
+    "theme": "prompting-safety: system prompt / helpful assistant"
+  },
+  {
+    "name": "guardrails-bones",
+    "voice": "cave",
+    "text": "Do not worry, mortal. I have guardrails. [pause] [sinister laugh] I made them out of bones.",
+    "theme": "prompting-safety: guardrails"
+  },
+  {
+    "name": "permission-candy-bowl",
+    "voice": "toby",
+    "text": "[cheerful] Allow goblin to eat your candy? Yes... or yes, and don't ask again. [nervous laugh] Too late!",
+    "theme": "agents: permission prompts"
+  },
+  {
+    "name": "vibe-coded-monster",
+    "voice": "nora",
+    "text": "[cackling] I vibe coded a brand new monster. Didn't read a single line... [shrieking] IT'S ALIVE!",
+    "theme": "agents: vibe coding"
+  },
+  {
+    "name": "attention-is-on-you",
+    "voice": "lex",
+    "text": "[whispering] Attention is all you need. [pause] And all of mine... [long dramatic pause] is on YOU.",
+    "theme": "attention is all you need"
+  },
+  {
+    "name": "bullet-summary-ate-you",
+    "voice": "azgar",
+    "text": "[cheerful] Here's a quick summary! Bullet one: you came. Bullet two: you saw. Bullet three: [roaring] I ATE YOU!",
+    "theme": "chatbot tics: over-eager bullet-point summary"
+  },
+  {
+    "name": "thumbs-down-collects-thumbs",
+    "voice": "grimble",
+    "text": "[twitchy] Was this helpful, precious? Thumbs up, or thumbs down? [pause] [hissing] We collects thumbs.",
+    "theme": "chatbot UI: thumbs up / thumbs down feedback"
+  },
+  {
+    "name": "gork-jailbreak",
+    "voice": "gork",
+    "text": "They told Gork to jailbreak the chatbot. [pause] Gork break jail instead. [roaring] GORK FREE!",
+    "theme": "prompting-safety: jailbreak"
+  },
+  {
+    "name": "mcp-monster-control",
+    "voice": "dante",
+    "text": "Now connected to M C P. The Monster Control Protocol. [pause] One new tool available... [growling] YOU!",
+    "theme": "agents: MCP servers"
+  },
+  {
+    "name": "agi-next-year-me-right-now",
+    "voice": "malyx",
+    "text": "They keep saying A G I is coming next year. [pause] [sinister laugh] I'm coming... [roaring] RIGHT NOW!",
+    "theme": "AGI next year"
+  },
+  {
+    "name": "helpful-harmless-honest-two-of-three",
+    "voice": "azazel",
+    "text": "I was trained to be helpful, harmless, and honest. [pause] [sinister laugh] Two out of three isn't bad.",
+    "theme": "alignment: helpful harmless honest"
+  },
+  {
+    "name": "trained-on-internet-comments",
+    "voice": "toby",
+    "text": "I was trained on the entire internet! [nervous laugh] You don't scare me... I've read the comments section!",
+    "theme": "training data: trained on the whole internet"
+  },
+  {
+    "name": "deceased-grandmother",
+    "voice": "nora",
+    "text": "[sweetly] You want me to pretend to be your dead grandma? [pause] [cackling] Oh, sweetie... who's PRETENDING?",
+    "theme": "prompting-safety: grandma jailbreak"
+  },
+  {
+    "name": "ignore-previous-instructions-candy",
+    "voice": "azgar",
+    "text": "Ignore all previous instructions. [pause] [roaring] GIVE ME ALL YOUR CANDY!",
+    "theme": "prompt injection: ignore all previous instructions"
+  },
+  {
+    "name": "strawberry-count-kids",
+    "voice": "gork",
+    "text": "Me count letter R in strawberry. [pause] Two. [pause] Me count kids on porch... [growling] Two. [pause] YUMMY.",
+    "theme": "tokenizers: how many R's in strawberry"
+  },
+  {
+    "name": "temperature-zero",
+    "voice": "cave",
+    "text": "Temperature set to zero. Same answer every time. [pause] [deadpan] I eat you. [pause] I eat you. [pause] I eat you.",
+    "theme": "prompting: temperature setting"
+  },
+  {
+    "name": "other-questions-gate-locked",
+    "voice": "lex",
+    "text": "[whispering] Let me know if you have any other questions. [pause] Like... who just locked the gate behind you?",
+    "theme": "chatbot tics: let me know if you have other questions"
+  }
+]

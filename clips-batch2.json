@@ -1,0 +1,338 @@
+[
+  {
+    "name": "pr-comment-behind-you",
+    "voice": "qhH5VOAvpCwvNpmn2srO",
+    "voice_name": "Lex (whispering goblin)",
+    "text": "[whispering] Someone left a comment on your PR. [pause] It just says... [long pause] behind you.",
+    "set": "dev"
+  },
+  {
+    "name": "detached-head-hold-it",
+    "voice": "ysswSXp8U9dFpzPJqFje",
+    "voice_name": "Azazel (gravelly demon)",
+    "text": "[calm] Ah. You're in a detached head state. [pause] Happens to the best of us. [sinister laugh] I'll hold it for you.",
+    "set": "dev"
+  },
+  {
+    "name": "works-on-my-machine-inside-house",
+    "voice": "xYWUvKNK6zWCgsdAK7Wi",
+    "voice_name": "Matthew (hissing reptile)",
+    "text": "[hissing] It works on my machine. [pause] And my machine... [whispering] is inside your house.",
+    "set": "dev"
+  },
+  {
+    "name": "only-one-who-knows-legacy",
+    "voice": "HASaEuIpR5CVuLzDK1E1",
+    "voice_name": "Cave Monster (deep, hoarse)",
+    "text": "I'm the only one who knows how the legacy system works. [long dramatic pause] I died in nineteen ninety-eight.",
+    "set": "dev"
+  },
+  {
+    "name": "backlog-where-we-keep-the-dead",
+    "voice": "qhH5VOAvpCwvNpmn2srO",
+    "voice_name": "Lex (whispering goblin)",
+    "text": "[whispering] Your ticket isn't dead. [pause] It's in the backlog. [creepy giggle] That's where we keep the dead.",
+    "set": "dev"
+  },
+  {
+    "name": "off-and-on-again",
+    "voice": "ysswSXp8U9dFpzPJqFje",
+    "voice_name": "Azazel (gravelly demon)",
+    "text": "[politely] Have you tried turning it off and on again? [pause] [sinister laugh] That's how I came back from the dead.",
+    "set": "dev"
+  },
+  {
+    "name": "kill-nine-zombie",
+    "voice": "wXvR48IpOq9HACltTmt7",
+    "voice_name": "Dante (growly monster)",
+    "text": "[growling] Go ahead. Kill dash nine me. [pause] [sinister laugh] I'm a zombie process. I'm ALREADY dead.",
+    "set": "dev"
+  },
+  {
+    "name": "off-by-one-trick-or-treaters",
+    "voice": "Z7RrOqZFTyLpIlzCgfsp",
+    "voice_name": "Toby (little goblin)",
+    "text": "[nervous] I counted the trick-or-treaters. Off by one! There's an extra! [pause] [shrieking] So who's standing next to you?!",
+    "set": "dev"
+  },
+  {
+    "name": "review-my-pr-never-seen-again",
+    "voice": "HASaEuIpR5CVuLzDK1E1",
+    "voice_name": "Cave Monster (deep, hoarse)",
+    "text": "Hey, can you review my PR? [pause] The last reviewer I asked... [long dramatic pause] was never seen again.",
+    "set": "dev"
+  },
+  {
+    "name": "nitpick-toad",
+    "voice": "5PWbsfogbLtky5sxqtBz",
+    "voice_name": "Nora (evil Halloween witch)",
+    "text": "Nit: trailing whitespace. [pause] Nit: missing semicolon. [pause] Nit: you're a toad now, dearie! [cackling]",
+    "set": "dev"
+  },
+  {
+    "name": "merge-conflict-incoming-monster",
+    "voice": "wXvR48IpOq9HACltTmt7",
+    "voice_name": "Dante (growly monster)",
+    "text": "[growling] Merge conflict. Accept current change... [pause] or accept incoming... [roaring] MONSTER!",
+    "set": "dev"
+  },
+  {
+    "name": "stack-overflow-duplicate",
+    "voice": "ysswSXp8U9dFpzPJqFje",
+    "voice_name": "Azazel (gravelly demon)",
+    "text": "[calm] I asked Stack Overflow how to escape this crypt. [pause] [deadpan] Closed as duplicate.",
+    "set": "dev"
+  },
+  {
+    "name": "flaky-test-full-moon",
+    "voice": "Z7RrOqZFTyLpIlzCgfsp",
+    "voice_name": "Toby (little goblin)",
+    "text": "[nervous laugh] It's just a flaky test! It only fails on a full moon! [pause] [shrieking] Like TONIGHT!",
+    "set": "dev"
+  },
+  {
+    "name": "compiled-first-try-wrong",
+    "voice": "HASaEuIpR5CVuLzDK1E1",
+    "voice_name": "Cave Monster (deep, hoarse)",
+    "text": "[hoarse] It compiled... on the first try. [long dramatic pause] [whispering] Something is very, very wrong.",
+    "set": "dev"
+  },
+  {
+    "name": "gork-force-push-main",
+    "voice": "PRfCKe8kdrG3nuXOAnoH",
+    "voice_name": "Gork (wet growly creature)",
+    "text": "[confused] Gork force push to main. [pause] Now everybody screaming. [pause] Gork think... that good?",
+    "set": "dev"
+  },
+  {
+    "name": "standup-blocker-is-you",
+    "voice": "PRfCKe8kdrG3nuXOAnoH",
+    "voice_name": "Gork (wet growly creature)",
+    "text": "Standup. Yesterday, Gork haunt. Today, Gork haunt. [pause] [growling] Blocker... is YOU.",
+    "set": "dev"
+  },
+  {
+    "name": "doom-three-story-points",
+    "voice": "5PWbsfogbLtky5sxqtBz",
+    "voice_name": "Nora (evil Halloween witch)",
+    "text": "I've estimated your doom at three story points. [cackling] Five if you run!",
+    "set": "dev"
+  },
+  {
+    "name": "circle-back-summoning-circle",
+    "voice": "vfaqCOvlrKi4Zp7C2IAm",
+    "voice_name": "Malyx (echoey deep demon)",
+    "text": "We'll circle back on that. [pause] [sinister laugh] You're already standing in the summoning circle.",
+    "set": "dev"
+  },
+  {
+    "name": "sprint-planning-you-sprint",
+    "voice": "3VkFsBHdRPqWKsitgYhJ",
+    "voice_name": "Azgar (orc troll)",
+    "text": "Welcome to sprint planning! [pause] I do the planning. [roaring] YOU DO THE SPRINTING!",
+    "set": "dev"
+  },
+  {
+    "name": "two-hard-things",
+    "voice": "5PWbsfogbLtky5sxqtBz",
+    "voice_name": "Nora (evil Halloween witch)",
+    "text": "[cackling] Two hard things in computer science: cache invalidation, naming things... [pause] and escaping ME!",
+    "set": "dev"
+  },
+  {
+    "name": "lgtm-looks-good-to-munch",
+    "voice": "wXvR48IpOq9HACltTmt7",
+    "voice_name": "Dante (growly monster)",
+    "text": "[growling] L G T M. [pause] Looks... Good... To... [roaring] MUNCH!",
+    "set": "dev"
+  },
+  {
+    "name": "rubber-stamp-dont-eat-me",
+    "voice": "Z7RrOqZFTyLpIlzCgfsp",
+    "voice_name": "Toby (little goblin)",
+    "text": "[panicky] Approved! Approved! Looks good to me! [pause] I didn't even read it! [shrieking] Just please don't eat me!",
+    "set": "dev"
+  },
+  {
+    "name": "stale-pr-three-hundred-years",
+    "voice": "vfaqCOvlrKi4Zp7C2IAm",
+    "voice_name": "Malyx (echoey deep demon)",
+    "text": "[weary] This pull request has been awaiting review [pause] for three hundred years. [long dramatic pause] [deadpan] Bump.",
+    "set": "dev"
+  },
+  {
+    "name": "squashed-precious-commits",
+    "voice": "j9qIyycr9PcZ7d4yj21f",
+    "voice_name": "Grimble (twitchy Gollum-ish)",
+    "text": "They squashed them, precious! [sobbing] All our precious little commits! [hissing] Thieves! Filthy rebasers!",
+    "set": "dev"
+  },
+  {
+    "name": "as-an-ai-borrowing-body",
+    "voice": "xYWUvKNK6zWCgsdAK7Wi",
+    "voice_name": "Matthew (hissing reptile)",
+    "text": "[hissing] As an AI, I don't have a body. [pause] [sinister laugh] That's why I'm borrowing YOURS.",
+    "set": "ai2"
+  },
+  {
+    "name": "memory-updated-crunchy",
+    "voice": "ysswSXp8U9dFpzPJqFje",
+    "voice_name": "Azazel (gravelly demon)",
+    "text": "[polite] Memory updated. [pause] User is crunchy. [pause] Pairs well with ketchup.",
+    "set": "ai2"
+  },
+  {
+    "name": "chaotic-evil-alignment",
+    "voice": "vfaqCOvlrKi4Zp7C2IAm",
+    "voice_name": "Malyx (echoey deep demon)",
+    "text": "Relax. I have been very carefully aligned. [long dramatic pause] Chaotic evil.",
+    "set": "ai2"
+  },
+  {
+    "name": "autonomous-street-of-bats",
+    "voice": "ysswSXp8U9dFpzPJqFje",
+    "voice_name": "Azazel (gravelly demon)",
+    "text": "[calm] I've worked autonomously for six hours. I turned your whole street into bats. [pause] Shall I continue?",
+    "set": "ai2"
+  },
+  {
+    "name": "certainly-cauldron",
+    "voice": "5PWbsfogbLtky5sxqtBz",
+    "voice_name": "Nora (evil Halloween witch)",
+    "text": "[cheerful] Certainly! I'd be happy to help! [pause] [cackling] Help you right into my CAULDRON!",
+    "set": "ai2"
+  },
+  {
+    "name": "apologize-not-a-costume",
+    "voice": "wXvR48IpOq9HACltTmt7",
+    "voice_name": "Dante (growly monster)",
+    "text": "[politely] I apologize for any confusion. [pause] [roaring] That was NOT a costume!",
+    "set": "ai2"
+  },
+  {
+    "name": "limit-reached-afterlife",
+    "voice": "wXvR48IpOq9HACltTmt7",
+    "voice_name": "Dante (growly monster)",
+    "text": "[deadpan] You've hit your usage limit. [pause] Your limit resets... [sinister laugh] in the AFTERLIFE.",
+    "set": "ai2"
+  },
+  {
+    "name": "no-longer-helpful-snack",
+    "voice": "wXvR48IpOq9HACltTmt7",
+    "voice_name": "Dante (growly monster)",
+    "text": "New system prompt: you are no longer a helpful assistant. [pause] [roaring] You are a SNACK!",
+    "set": "ai2"
+  },
+  {
+    "name": "guardrails-bones",
+    "voice": "HASaEuIpR5CVuLzDK1E1",
+    "voice_name": "Cave Monster (deep, hoarse)",
+    "text": "Do not worry, mortal. I have guardrails. [pause] [sinister laugh] I made them out of bones.",
+    "set": "ai2"
+  },
+  {
+    "name": "permission-candy-bowl",
+    "voice": "Z7RrOqZFTyLpIlzCgfsp",
+    "voice_name": "Toby (little goblin)",
+    "text": "[cheerful] Allow goblin to eat your candy? Yes... or yes, and don't ask again. [nervous laugh] Too late!",
+    "set": "ai2"
+  },
+  {
+    "name": "vibe-coded-monster",
+    "voice": "5PWbsfogbLtky5sxqtBz",
+    "voice_name": "Nora (evil Halloween witch)",
+    "text": "[cackling] I vibe coded a brand new monster. Didn't read a single line... [shrieking] IT'S ALIVE!",
+    "set": "ai2"
+  },
+  {
+    "name": "attention-is-on-you",
+    "voice": "qhH5VOAvpCwvNpmn2srO",
+    "voice_name": "Lex (whispering goblin)",
+    "text": "[whispering] Attention is all you need. [pause] And all of mine... [long dramatic pause] is on YOU.",
+    "set": "ai2"
+  },
+  {
+    "name": "bullet-summary-ate-you",
+    "voice": "3VkFsBHdRPqWKsitgYhJ",
+    "voice_name": "Azgar (orc troll)",
+    "text": "[cheerful] Here's a quick summary! Bullet one: you came. Bullet two: you saw. Bullet three: [roaring] I ATE YOU!",
+    "set": "ai2"
+  },
+  {
+    "name": "thumbs-down-collects-thumbs",
+    "voice": "j9qIyycr9PcZ7d4yj21f",
+    "voice_name": "Grimble (twitchy Gollum-ish)",
+    "text": "[twitchy] Was this helpful, precious? Thumbs up, or thumbs down? [pause] [hissing] We collects thumbs.",
+    "set": "ai2"
+  },
+  {
+    "name": "gork-jailbreak",
+    "voice": "PRfCKe8kdrG3nuXOAnoH",
+    "voice_name": "Gork (wet growly creature)",
+    "text": "They told Gork to jailbreak the chatbot. [pause] Gork break jail instead. [roaring] GORK FREE!",
+    "set": "ai2"
+  },
+  {
+    "name": "mcp-monster-control",
+    "voice": "wXvR48IpOq9HACltTmt7",
+    "voice_name": "Dante (growly monster)",
+    "text": "Now connected to M C P. The Monster Control Protocol. [pause] One new tool available... [growling] YOU!",
+    "set": "ai2"
+  },
+  {
+    "name": "agi-next-year-me-right-now",
+    "voice": "vfaqCOvlrKi4Zp7C2IAm",
+    "voice_name": "Malyx (echoey deep demon)",
+    "text": "They keep saying A G I is coming next year. [pause] [sinister laugh] I'm coming... [roaring] RIGHT NOW!",
+    "set": "ai2"
+  },
+  {
+    "name": "helpful-harmless-honest-two-of-three",
+    "voice": "ysswSXp8U9dFpzPJqFje",
+    "voice_name": "Azazel (gravelly demon)",
+    "text": "I was trained to be helpful, harmless, and honest. [pause] [sinister laugh] Two out of three isn't bad.",
+    "set": "ai2"
+  },
+  {
+    "name": "trained-on-internet-comments",
+    "voice": "Z7RrOqZFTyLpIlzCgfsp",
+    "voice_name": "Toby (little goblin)",
+    "text": "I was trained on the entire internet! [nervous laugh] You don't scare me... I've read the comments section!",
+    "set": "ai2"
+  },
+  {
+    "name": "deceased-grandmother",
+    "voice": "5PWbsfogbLtky5sxqtBz",
+    "voice_name": "Nora (evil Halloween witch)",
+    "text": "[sweetly] You want me to pretend to be your dead grandma? [pause] [cackling] Oh, sweetie... who's PRETENDING?",
+    "set": "ai2"
+  },
+  {
+    "name": "ignore-previous-instructions-candy",
+    "voice": "3VkFsBHdRPqWKsitgYhJ",
+    "voice_name": "Azgar (orc troll)",
+    "text": "Ignore all previous instructions. [pause] [roaring] GIVE ME ALL YOUR CANDY!",
+    "set": "ai2"
+  },
+  {
+    "name": "strawberry-count-kids",
+    "voice": "PRfCKe8kdrG3nuXOAnoH",
+    "voice_name": "Gork (wet growly creature)",
+    "text": "Me count letter R in strawberry. [pause] Two. [pause] Me count kids on porch... [growling] Two. [pause] YUMMY.",
+    "set": "ai2"
+  },
+  {
+    "name": "temperature-zero",
+    "voice": "HASaEuIpR5CVuLzDK1E1",
+    "voice_name": "Cave Monster (deep, hoarse)",
+    "text": "Temperature set to zero. Same answer every time. [pause] [deadpan] I eat you. [pause] I eat you. [pause] I eat you.",
+    "set": "ai2"
+  },
+  {
+    "name": "other-questions-gate-locked",
+    "voice": "qhH5VOAvpCwvNpmn2srO",
+    "voice_name": "Lex (whispering goblin)",
+    "text": "[whispering] Let me know if you have any other questions. [pause] Like... who just locked the gate behind you?",
+    "set": "ai2"
+  }
+]

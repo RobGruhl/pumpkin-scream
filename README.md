@@ -8,13 +8,16 @@ AI-meme Halloween scares for a Waytronic MicroSound M13 (WT-M13) motion-activate
 
 | Path | What |
 |---|---|
-| `clips.json`, `generated/` | First test batch (stock ElevenLabs voices) |
-| `clips-monsters.json`, `generated-clips-monsters/` | Monster-voice clips (40), the source set |
-| `normalized/` | Same clips after `normalize.sh` (-14 LUFS, limited, mono 44.1 kHz 128 kbps) |
-| `card-order.txt` | Play order for the 35 AI-meme clips (no voice plays twice in a row, including the wrap) |
-| `card-128/`, `card-96/` | The 35 clips in play order at 128 and 96 kbps |
-| `card-map.txt` | `NNN.MP3` on the card → clip name |
-| `MANUAL.md` | Notes from the M13 manual (buttons, modes, update procedure) |
+| `clips.json` → `generated/` | First test batch: 10 lines in stock ElevenLabs voices. Superseded by the monster voices; kept for comparison. |
+| `clips-monsters.json` → `generated-clips-monsters/` | Batch 1 in monster voices (40): 35 AI-meme lines plus 5 plain Halloween lines (`trickster-boo`, `who-dares`, `scared-pumpkin`, `trick-or-treat`, `old-man-candy`). |
+| `shortlist-dev.json`, `shortlist-ai2.json` | Batch 2 shortlists: 24 developer-meme and 24 AI-meme lines, each picked from ~56 candidates by four theme writers, a comedy judge and a porch/voice judge. |
+| `clips-batch2.json` → `generated-clips-batch2/` | Batch 2 rendered (48), both shortlists merged with ElevenLabs voice ids. |
+| `generated-*/` | Raw `eleven_v4` output, mono 44.1 kHz 128 kbps, uneven loudness. Source of truth for re-processing. |
+| `normalized/` | Every monster-voice clip (88) after `normalize.sh`: 120 Hz high-pass, light compression, -14 LUFS, -1.5 dB limiter. These are what go on cards. |
+| `card-order.txt` | Play order for the current 35-clip card (no voice plays twice in a row, including the wrap). |
+| `card-128/`, `card-96/` | That 35-clip card set in play order, at 128 and 96 kbps (`NNN-name.mp3`). `card-128` is what's on the cards. |
+| `card-map.txt` | `NNN.MP3` on the card → clip name, written by `write-card.sh`. |
+| `MANUAL.md` | Notes from the M13 manual: buttons, modes, update procedure, timing. |
 
 ## Scripts
 
