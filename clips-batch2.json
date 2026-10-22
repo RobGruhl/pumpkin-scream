@@ -136,14 +136,14 @@
     "name": "two-hard-things",
     "voice": "5PWbsfogbLtky5sxqtBz",
     "voice_name": "Nora (evil Halloween witch)",
-    "text": "[cackling] Two hard things in computer science: cache invalidation, naming things... [pause] and escaping ME!",
+    "text": "Two hard things in computer science: cache invalidation, naming things... [pause] [cackling] and getting off this porch ALIVE!",
     "set": "dev"
   },
   {
     "name": "lgtm-looks-good-to-munch",
-    "voice": "wXvR48IpOq9HACltTmt7",
-    "voice_name": "Dante (growly monster)",
-    "text": "[growling] L G T M. [pause] Looks... Good... To... [roaring] MUNCH!",
+    "voice": "3VkFsBHdRPqWKsitgYhJ",
+    "voice_name": "Azgar (orc troll)",
+    "text": "[slow, booming] L. G. T. M. [pause] Looks good to... [pause] [hungry, loud] MUNCH. [chomping]",
     "set": "dev"
   },
   {
@@ -183,9 +183,9 @@
   },
   {
     "name": "chaotic-evil-alignment",
-    "voice": "vfaqCOvlrKi4Zp7C2IAm",
-    "voice_name": "Malyx (echoey deep demon)",
-    "text": "Relax. I have been very carefully aligned. [long dramatic pause] Chaotic evil.",
+    "voice": "ysswSXp8U9dFpzPJqFje",
+    "voice_name": "Azazel (gravelly demon)",
+    "text": "[calm, reassuring] Relax. I have been very carefully aligned. [long dramatic pause] [sinister] Chaotic. Evil.",
     "set": "ai2"
   },
   {

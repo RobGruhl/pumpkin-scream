@@ -32,6 +32,9 @@ for f in $files; do
   n=$((n + 1))
   dst=$(printf '%03d.MP3' "$n")
   cp -X "$src/$f" "$vol/$dst"
+  # Drop this file's ._ companion now: it holds 2 root-directory slots, and
+  # FAT16 has only 512. The next file then reuses the freed slot, so order holds.
+  rm -f "$vol/._$dst"
   echo "$dst  $f"
   sync
 done

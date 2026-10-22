@@ -17,12 +17,15 @@ AI-meme Halloween scares for a Waytronic MicroSound M13 (WT-M13) motion-activate
 | `card-order.txt` | Play order for the current 35-clip card (no voice plays twice in a row, including the wrap). |
 | `card-128/`, `card-96/` | That 35-clip card set in play order, at 128 and 96 kbps (`NNN-name.mp3`). `card-128` is what's on the cards. |
 | `card-map.txt` | `NNN.MP3` on the card → clip name, written by `write-card.sh`. |
+| `card-81-1/` … `card-81-5/` (+ `-order.txt`) | Five card sets of the 81-clip pool (35 batch 1 + 46 batch 2; the two Whisper-garbled clips dropped), each a different baked shuffle, one per speaker so neighbours don't play in step. |
+| `card-shuffle/` (+ `-order.txt`) | The same 81 clips as three back-to-back shuffled rounds (243 files) for a longer loop. |
 | `transcripts-batch2.tsv` | Local Whisper transcript of each batch-2 clip, used to check no audio tag was read aloud (none were). |
 | `MANUAL.md` | Notes from the M13 manual: buttons, modes, update procedure, timing. |
 
 ## Scripts
 
 - `gen.py [--clips FILE] [--only NAME ...] [--dry-run]` renders clips via the ElevenLabs API. The key comes from the macOS Keychain item `ELEVENLABS_API_KEY`; every paid call appends a line to `~/.local/state/agent-voice/audit.log`. A per-run ceiling of 2000 characters is in code.
+- `make-shuffle.py [--rounds N] [--seed S] [--min-gap G] [--out NAME]` bakes a shuffle into a card set, since the M13 can only loop in order (the chip's random mode is reachable only over its UART). Every round is a fresh permutation; across the loop, including the wrap, no voice plays twice in a row, no set plays three in a row, and no clip repeats within `--min-gap` plays (default 30).
 - `normalize.sh SRC OUT` high-passes at 120 Hz, lightly compresses, two-pass `loudnorm` to -14 LUFS, then a -1.5 dB brick-wall limiter.
 - `write-card.sh /dev/diskN SRC > card-map.txt` erases a removable USB/SD card (refuses disk images and anything over 4 GB) as MBR + FAT16 like the factory card, and copies files as 8.3 names `001.MP3`… one at a time, so FAT directory order, name order and play order all match (the WT2003B indexes tracks by write order). It resolves the card's real mount point from `diskutil` rather than assuming `/Volumes/PUMPKIN`, removes the `._` AppleDouble files macOS creates even with `cp -X`, and finishes by verifying order, count and checksums on the card.
 
